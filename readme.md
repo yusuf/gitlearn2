@@ -19,3 +19,4 @@ git branch -M main
 ## Push to Repo
 
 git add .
+git commit -m "readme file added"

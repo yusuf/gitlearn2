@@ -8,6 +8,8 @@ git config --global user.name "YOUR_USERNAME"
 
 git config --global user.email "email@domain.com"
 
+git config credential.helper store
+
 git config --global --list
 
 ## Git Init
